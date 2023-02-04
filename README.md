@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
-
+## How i'm?
+I'm Mohammed, 13 y.o, form Iraq. a beginner program 
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nnko0o)
